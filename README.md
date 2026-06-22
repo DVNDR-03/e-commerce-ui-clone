@@ -17,4 +17,4 @@ A responsive e-commerce homepage built with HTML and CSS for learning and portfo
 https://dvndr-03.github.io/e-commerce-ui-clone/
 
 ## Disclaimer
-This project is created for educational and portfolio purposes only and is not affiliated with or endorsed by Amazon.
+This project is created for educational and portfolio purposes only.
